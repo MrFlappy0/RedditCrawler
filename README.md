@@ -56,6 +56,3 @@ Contributions are welcome! For major changes, please open an issue first to disc
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-```
-
-This README template provides a basic structure for your GitHub repository, including sections for an introduction, features, prerequisites, installation instructions, usage guide, configuration details, contribution guidelines, and license information. Adjust the content as necessary to fit your project's specifics.
